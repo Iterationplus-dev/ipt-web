@@ -534,10 +534,10 @@
             <div>
                 <h4 style="font-size: .8rem; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: .1em; margin: 0 0 1.25rem;">Contact</h4>
                 <p style="font-size: .875rem; color: #666; line-height: 1.6; margin: 0 0 1rem;">
-                    102 Ozuoba Crescent, Rumuola, Port Harcourt, Rivers State
+                    1 Ohiamini Crescent, Rumuola, Port Harcourt, Rivers State
                 </p>
-                <a href="tel:+2348109871460" class="footer-link">+234 810 987 1460</a>
-                <a href="mailto:hello@iterationplus.ng" class="footer-link" style="color: #5BB741;">hello@iterationplus.ng</a>
+                <a href="tel:+2348109871460" class="footer-link">+234 805 676 9517</a>
+                <a href="mailto:hello@iterationplus.ng" class="footer-link" style="color: #5BB741;">help@iterationplus.com</a>
             </div>
         </div>
 
